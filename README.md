@@ -13,7 +13,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/Naive_Random_Oversampling.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.646 meaning about 64.6% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.646 meaning about 64.6% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.01 for high risk and 1.00 for low risk
 - Recall: 0.71 for high risk and .58 for low risk<br>
 
@@ -22,7 +22,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/SMOTE_Oversampling.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.659 meaning about 65.9% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.659 meaning about 65.9% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.01 for high risk and 1.00 for low risk
 - Recall: 0.63 for high risk and .68 for low risk<br>
 
@@ -31,7 +31,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.544 meaning about 54.4% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.544 meaning about 54.4% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.01 for high risk and 1.00 for low risk
 - Recall: 0.69 for high risk and .40 for low risk<br>
 
@@ -40,7 +40,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.666 meaning about 66.6% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.666 meaning about 66.6% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.01 for high risk and 1.00 for low risk
 - Recall: 0.73 for high risk and .60 for low risk<br>
 
@@ -49,7 +49,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/Balanced_Random_Forest.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.789 meaning about 78.9% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.789 meaning about 78.9% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.03 for high risk and 1.00 for low risk
 - Recall: 0.70 for high risk and .87 for low risk<br>
 
@@ -58,7 +58,7 @@ Positive or False Negative. This can be found using the following equation: Sens
     <img src= "https://github.com/Bropell/Credit_Risk_Analysis/blob/main/Resources/Easy_Ensemble_AdaBoost.png"/>
 </p><br>
 
-- Balanced Accuracy Score: 0.932 meaning about 93.2% of the observations in the testing set was predicted correctly by this model.
+- Balanced Accuracy Score: 0.932 meaning about 93.2% of the observations in the testing set were predicted correctly by this model.
 - Precision: 0.09 for high risk and 1.00 for low risk
 - Recall: 0.92 for high risk and .94 for low risk<br>
 
