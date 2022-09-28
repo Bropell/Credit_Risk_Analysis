@@ -63,3 +63,14 @@ Positive or False Negative. This can be found using the following equation: Sens
 - Recall: 0.92 for high risk and .94 for low risk<br>
 
 ## Summary
+Based on the balanced accuracy score, precision and recall of each machine learning model, there are some points to be made. Each 
+model had greater than a 50% balanced accuracy score which shows that none of the models were horrible at predicting the actual
+outcomes. All the models were very precise regarding low-risk loans with a value of 1, which is as good as it gets. The precision
+for high-risk loans, however, was very low for all the models with the highest precision value being only .09. Regarding recall,
+each model displayed moderately different values for both the low-risk and high-risk loans. In the case that only one model needed to 
+be used, it is strongly recommended to use the Easy Ensemble Classifier model. This model seemed to exceed all others in its performance
+in every single parameter measured. It had the highest balanced accuracy score of .932 meaning about 93.2% of the observations in the
+testing set were predicted correctly. Its precision for low-risk loans matched the other models with a value of 1 but where it really 
+shined was the precision of .09 for high-risk loans. This was nine times better than all models except for the Balanced Random Forest 
+Classifier, where it was three times better. The highest recall values were also observed in this model where both high-risk and
+low-risk loans were above .90 making the Easy Ensemble Classifier model the obvious winner. 
